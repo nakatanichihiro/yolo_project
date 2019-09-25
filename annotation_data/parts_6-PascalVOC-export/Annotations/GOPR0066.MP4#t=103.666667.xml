@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>GOPR0066.MP4#t=103.666667.jpg</filename>
+    <path>parts_6-PascalVOC-export/Annotations/GOPR0066.MP4#t=103.666667.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>grassroots</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>567.4974253347065</xmin>
+        <ymin>55.57005494505495</ymin>
+        <xmax>824.5520082389289</xmax>
+        <ymax>296.8887362637363</ymax>
+    </bndbox>
+</object>
+</annotation>

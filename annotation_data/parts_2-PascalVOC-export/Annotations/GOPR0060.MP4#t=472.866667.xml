@@ -1,0 +1,26 @@
+<annotation verified="yes">
+    <folder>Annotation</folder>
+    <filename>GOPR0060.MP4#t=472.866667.jpg</filename>
+    <path>parts_2-PascalVOC-export/Annotations/GOPR0060.MP4#t=472.866667.jpg</path>
+    <source>
+        <database>Unknown</database>
+    </source>
+    <size>
+        <width>1920</width>
+        <height>1080</height>
+        <depth>3</depth>
+    </size>
+    <segmented>0</segmented>
+    <object>
+    <name>peat</name>
+    <pose>Unspecified</pose>
+    <truncated>0</truncated>
+    <difficult>0</difficult>
+    <bndbox>
+        <xmin>804.778578784758</xmin>
+        <ymin>75.35027472527473</ymin>
+        <xmax>939.2378990731205</xmax>
+        <ymax>195.82417582417582</ymax>
+    </bndbox>
+</object>
+</annotation>

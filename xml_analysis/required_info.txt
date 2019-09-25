@@ -1,0 +1,14 @@
+two text file 
+1. anotation info file
+for example
+<path> <coordinate> <label_num>
+
+2. label info file
+for example
+person
+car 
+bus
+...
+
+
+

@@ -1,0 +1,28 @@
+item {
+ id: 1
+ name: 'wood'
+}
+item {
+ id: 2
+ name: 'peat'
+}
+item {
+ id: 3
+ name: 'grassroots'
+}
+item {
+ id: 4
+ name: 'iron'
+}
+item {
+ id: 5
+ name: 'garbage'
+}
+item {
+ id: 6
+ name: 'concrete'
+}
+item {
+ id: 7
+ name: 'clay'
+}

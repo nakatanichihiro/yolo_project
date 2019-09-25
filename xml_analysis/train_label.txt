@@ -1,0 +1,7 @@
+iron
+wood
+garbage
+peat
+grassroots
+concrete
+clay
